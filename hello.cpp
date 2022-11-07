@@ -2,6 +2,8 @@
 using namespace std;
 int main();
 {
-  cout<<"Hello World";//printing hello world
+  cout<<"Hello World\n";//printing hello world
+  
+  cout<<"\n_This is updated one";
   return 0;
 }
